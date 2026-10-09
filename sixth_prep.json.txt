@@ -1,0 +1,84 @@
+{
+  "books": [
+    {
+      "bookTitle": "فيزياء عصام الشمري1",
+      "chapters": [
+        {
+          "name": "الفصل الأول - الحركة",
+          "videos": [
+            {"id": "ANV6i-EvTLA"},
+            {"id": "5evRjk3xRZw"},
+            {"id": "-a0DUZ5DQ6Y"},
+            {"id": "jtPUaC-NeS0"},
+            {"id": "DJEHR9IQG14"},
+            {"id": "RlISnSFxLRk"},
+            {"id": "nDUByeiwTco"},
+            {"id": "7lyIMQWWAcA"},
+            {"id": "wZ1Ao1-TpBQ"},
+            {"id": "UZXO7Wcy1OM"},
+            {"id": "en6O0Ki7HzE"},
+            {"id": "WaAEBtbOywA"},
+            {"id": "dA4WU0udQY8"},
+            {"id": "scc0p0MmN7A"},
+            {"id": "IuLkt7bYmBs"},
+            {"id": "84UGYJGpubQ"},
+            {"id": "wC-uIvTR2WE"},
+            {"id": "9sbihA_mhDE"},
+            {"id": "Tch9VJfteXw"},
+            {"id": "YlUBSKiPiv0"},
+            {"id": "PeXJosNZgXs"},
+            {"id": "k1cEKdY07pU"},
+            {"id": "DvWmKRsrt0s"},
+            {"id": "BW1a8I9IdDg"},
+            {"id": "GVLgkhCEigk"},
+            {"id": "pB2QVAuFBHU"},
+            {"id": "bCyKz_YXZJs"},
+            {"id": "X1lxqoXov-M"},
+            {"id": "upmL_iAC0Og"},
+            {"id": "cLS8V8OVsW0"}
+          ]
+        },
+        {
+          "name": "الفصل الثاني - الحث الكهرومغناطيسي",
+          "videos": [
+            {"id": "FiSAQ4f902g"},
+            {"id": "Nge4Rz3Ydz0"},
+            {"id": "ta9gQ_92y4Q"},
+            {"id": "CrPVfQVjMJc"}
+          ]
+        }
+      ]
+    },
+    {
+      "bookTitle": "كلاميات الكيمياء 2",
+      "chapters": [
+        {
+          "name": "الفصل الأول - الذرات",
+          "videos": [
+            {"id": "jhRjy51I4Iw"},
+            {"id": "5evRjk3xRZw"}
+          ]
+        },
+        {
+          "name": "الفصل الثاني - الجزيئات",
+          "videos": [
+            {"id": "jhRjy51I4Iw"},
+            {"id": "5evRjk3xRZw"}
+          ]
+        },
+        {
+          "name": "الفصل الثالث - الجزيئات",
+          "videos": [
+            {"id": "jhRjy51I4Iw"},
+            {"id": "5evRjk3xRZw"},
+            {"id": "jhRjy51I4Iw"},
+            {"id": "jhRjy51I4Iw"},
+            {"id": "jhRjy51I4Iw"},
+            {"id": "jhRjy51I4Iw"},
+            {"id": "jhRjy51I4Iw"}
+          ]
+        }
+      ]
+    }
+  ]
+}
