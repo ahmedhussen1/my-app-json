@@ -1,0 +1,50 @@
+{
+  "books": [
+    {
+      "bookTitle": "الرياضيات 1",
+      "chapters": [
+        {
+          "name": "الفصل الأول",
+          "videos": [
+            {"id": "ImGpVmLN7g0"},
+            {"id": "Id2pFUyT8xM"},
+            {"id": "S3t4zSqHl_g"}
+          ]
+        },
+        {
+          "name": "الفصل الثاني",
+          "videos": [
+            {"id": "VIDEO_ID_4"},
+            {"id": "VIDEO_ID_5"}
+          ]
+        }
+      ]
+    },
+    {
+      "bookTitle": "الكتاب الثاني - التاريخ",
+      "chapters": [
+        {
+          "name": "الفصل الأول - العصور القديمة",
+          "videos": [
+            {"id": "VIDEO_ID_6"},
+            {"id": "VIDEO_ID_7"}
+          ]
+        },
+        {
+          "name": "الفصل الثاني - العصور الإسلامية",
+          "videos": [
+            {"id": "VIDEO_ID_8"},
+            {"id": "VIDEO_ID_9"},
+            {"id": "VIDEO_ID_10"}
+          ]
+        },
+        {
+          "name": "الفصل الثالث - العصر الحديث",
+          "videos": [
+            {"id": "VIDEO_ID_11"}
+          ]
+        }
+      ]
+    }
+  ]
+}
