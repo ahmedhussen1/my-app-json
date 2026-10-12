@@ -1,0 +1,51 @@
+{
+  "books": [
+    {
+      "bookTitle": "الرياضيات 3",
+      "chapters": [
+        {
+          "name": "الفصل الأول",
+          "videos": [
+            {"id": "BtIJIQDoDm8"},
+            {"id": "VgEkOQhgSFc"},
+            {"id": "ua2b8vPSius"}
+		
+          ]
+        },
+        {
+          "name": "الفصل الثاني - الزخم الزاوي",
+          "videos": [
+            {"id": "VIDEO_ID_4"},
+            {"id": "VIDEO_ID_5"}
+          ]
+        }
+      ]
+    },
+    {
+      "bookTitle": "الكيمياء - الخامس العلمي",
+      "chapters": [
+        {
+          "name": "الفصل الأول - الكيمياء الحرارية",
+          "videos": [
+            {"id": "VIDEO_ID_6"},
+            {"id": "VIDEO_ID_7"}
+          ]
+        },
+        {
+          "name": "الفصل الثاني - الاتزان الكيميائي",
+          "videos": [
+            {"id": "VIDEO_ID_8"},
+            {"id": "VIDEO_ID_9"},
+            {"id": "VIDEO_ID_10"}
+          ]
+        },
+        {
+          "name": "الفصل الثالث - الحموض والقواعد",
+          "videos": [
+            {"id": "VIDEO_ID_11"}
+          ]
+        }
+      ]
+    }
+  ]
+}
