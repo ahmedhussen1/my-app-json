@@ -1,0 +1,50 @@
+{
+  "books": [
+    {
+      "bookTitle": "2 رياضيات",
+      "chapters": [
+        {
+          "name": "الفصل الأول",
+          "videos": [
+            {"id": "3hKkkuU_qEE"},
+            {"id": "CzIlVNqY_TE"},
+            {"id": "K2NFQYvjcng"}
+          ]
+        },
+        {
+          "name": "الفصل الثاني - الحركة في بعد واحد",
+          "videos": [
+            {"id": "VIDEO_ID_4"},
+            {"id": "VIDEO_ID_5"}
+          ]
+        }
+      ]
+    },
+    {
+      "bookTitle": "الكيمياء - الرابع العلمي",
+      "chapters": [
+        {
+          "name": "الفصل الأول - تركيب الذرة",
+          "videos": [
+            {"id": "VIDEO_ID_6"},
+            {"id": "VIDEO_ID_7"}
+          ]
+        },
+        {
+          "name": "الفصل الثاني - الجدول الدوري",
+          "videos": [
+            {"id": "VIDEO_ID_8"},
+            {"id": "VIDEO_ID_9"},
+            {"id": "VIDEO_ID_10"}
+          ]
+        },
+        {
+          "name": "الفصل الثالث - الروابط الكيميائية",
+          "videos": [
+            {"id": "VIDEO_ID_11"}
+          ]
+        }
+      ]
+    }
+  ]
+}
