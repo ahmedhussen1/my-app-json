@@ -1,0 +1,50 @@
+{
+  "books": [
+    {
+      "bookTitle": "الرياضيات ج1",
+      "chapters": [
+        {
+          "name": "الفصل الأول",
+          "videos": [
+            {"id": "T1SxpvU-iqA"},
+            {"id": "Wf0MWbTZLdU"},
+            {"id": "cEvou2bQEyg"}
+          ]
+        },
+        {
+          "name": "الفصل الثاني",
+          "videos": [
+            {"id": "jRWC_Sl2LDQ"},
+            {"id": "gixVC5g_9BI"}
+          ]
+        }
+      ]
+    },
+    {
+      "bookTitle": "العلوم - الثالث المتوسط",
+      "chapters": [
+        {
+          "name": "الفصل الأول - المادة وتغيراتها",
+          "videos": [
+            {"id": "VIDEO_ID_6"},
+            {"id": "VIDEO_ID_7"}
+          ]
+        },
+        {
+          "name": "الفصل الثاني - الطاقة",
+          "videos": [
+            {"id": "VIDEO_ID_8"},
+            {"id": "VIDEO_ID_9"},
+            {"id": "VIDEO_ID_10"}
+          ]
+        },
+        {
+          "name": "الفصل الثالث - الأحياء",
+          "videos": [
+            {"id": "VIDEO_ID_11"}
+          ]
+        }
+      ]
+    }
+  ]
+}
